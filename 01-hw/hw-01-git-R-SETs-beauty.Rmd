@@ -2,6 +2,7 @@
 title: "HW 01 - R, RStudio, Git, and GitHub"
 subtitle: "Meet the toolkit"
 author: "Quinntu"
+
 output: 
   tufte::tufte_html:
     css: ../hw.css
